@@ -1,7 +1,3 @@
-# NextJS Pokedex with Tailwind CSS
-
-![cover image](./images/cover.jpg)
-
 ## Getting Started
 
 First, run the development server:
