@@ -1,0 +1,51 @@
+.title-cont {
+    width: 50%;
+    height: 150px;
+    margin: 0 auto;
+    img {
+        width: 100%;
+        height: 100%;
+    }
+}
+.main-heading {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: condensed;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: normal;
+    text-align: center;
+    color: #414141;
+}
+.listing {
+    list-style: none;
+    margin: 2em;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    .card-cont {
+        border-radius: 5px;
+        background-color: #f8f8f8;
+        display: flex;
+        flex-direction: column;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+        transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+        &:hover {
+            box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+        }
+    }
+    .card {
+        margin-top: auto;
+        padding: 10px;
+        text-align: center;
+        color: unset;
+        .pokemon-title {
+            text-transform: uppercase;
+            font-weight: 700;
+        }
+    }
+    .body {
+        padding: 10px;
+    }
+}
