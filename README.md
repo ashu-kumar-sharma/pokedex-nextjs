@@ -1,7 +1,21 @@
+
+# Pokedex a pokemon encyclopidea.
+
+I have developed a Pokedex a pokemon encyclopidea using Next JS and Pokemon API.
+
 ## Demo
 https://pokedex-nextjs-iota.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
+## Screenshots
+
+![App Screenshot](https://user-images.githubusercontent.com/47344237/136653079-c11846eb-444d-443f-a7d3-854a0a246ae1.png)
+
+![App Screenshot](https://user-images.githubusercontent.com/47344237/136653075-5169cf60-2177-49e9-bb40-5b25158d59b7.png)
+
+![App Screenshot](https://user-images.githubusercontent.com/47344237/136653073-55c8a9ce-0a73-467d-a28b-ade6b6e34dff.png)
 
 ## Getting Started
 
@@ -31,3 +45,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## 🚀 About Me
+https://github.com/A-k-sharma
